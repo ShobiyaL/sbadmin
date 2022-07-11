@@ -3,9 +3,6 @@ import './App.css';
 import Sidebar from './components/Sidebar';
 import Dashboard from './components/Dashboard';
 import Navigation from './components/Navigation';
-// import {BrowserRouter,Routes,Route} from 'react-router-dom';
-// import CreateStudent from './components/CreateStudent';
-// import EditStudent from './components/EditStudent';
 
 function App() {
   let data={
